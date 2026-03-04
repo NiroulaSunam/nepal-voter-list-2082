@@ -1,4 +1,4 @@
-# 🗳️ Nepal Voter List Scraper — Changunarayan Ward 2, Dubakot
+# 🗳️ Nepal Voter List Scraper — Changunarayan Ward 2, Dubakot, Bhaktapur
 
 A simple Python script that scrapes the official Nepal Election Commission voter list for a particular center and saves it as both CSV and Excel files.
 
